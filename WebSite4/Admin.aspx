@@ -12,5 +12,12 @@
     
     </div>
     </form>
+    <asp:ImageButton ID="ImageButton1" runat="server" onclick="ImageButton1_Click" />
+    <br />
+    <br />
+    <asp:ImageButton ID="ImageButton2" runat="server" onclick="ImageButton2_Click" />
+    <br />
+    <br />
+    <asp:ImageButton ID="ImageButton3" runat="server" onclick="ImageButton3_Click" />
 </body>
 </html>
